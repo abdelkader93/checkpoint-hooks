@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.movieList{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2% 10%;
+  justify-content: space-around;
+}

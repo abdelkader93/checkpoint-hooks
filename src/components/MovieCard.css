@@ -1,0 +1,20 @@
+.movieCard {
+    margin-right: 2%;
+    margin-top: 2%;
+    height: 5%;
+}
+
+.imgCard {
+    height: 400px;
+}
+
+.desc {
+    width: 250px;
+    /* Set a width to control the text length */
+    white-space: nowrap;
+    /* Prevent the text from wrapping to the next line */
+    overflow: hidden;
+    /* Hide the overflowing text */
+    text-overflow: ellipsis;
+    /* Show the "..." after the truncated text */
+}
